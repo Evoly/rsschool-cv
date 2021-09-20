@@ -6,12 +6,13 @@
 - E-mail: svetoch.sv@gmail.com
 - Telegram: @Svetoch_777
 
+## About me
+
 ## Skills
-    1. HTML, CSS, and Javascript for Web Developers created by Johns Hopkins University.([Coursera](https://www.coursera.org/))
-    2. Profession Frontend Developer [Hexlet](https://ru.hexlet.io)
-
-
-
+- HTML5, CSS3
+- CSS (Bootstrap, SCSS, BEM)
+- JavaScript Basics
+- Git
 ## Code example:
 [Highest and Lowest](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34) : In this little assignment you are given a string of space separated numbers, and have to return the highest and lowest number.
 
@@ -22,6 +23,14 @@ const highAndLow =(str) => {
    const min = Math.min(...numbers);
   return `${max} ${min}`;
 }
-
 ```
 
+## job
+*nothing relevant yet*
+## Education and courses:
+    1. HTML, CSS, and Javascript for Web Developers created by Johns Hopkins University.([Coursera](https://www.coursera.org/))
+    2. Profession Frontend Developer ([Hexlet](https://ru.hexlet.io) in progress)
+
+## Languages:
+- Russian - native
+- English - A2
