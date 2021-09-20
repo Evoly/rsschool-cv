@@ -2,13 +2,14 @@
 
 *Junior Frontend Developer*
 
-## Contacts
+## Contacts:
 - E-mail: svetoch.sv@gmail.com
 - Telegram: @Svetoch_777
 
-## About me
+## About me:
 
-## Skills
+I want to learn Front-End Development
+## Skills:
 - HTML5, CSS3
 - CSS (Bootstrap, SCSS, BEM)
 - JavaScript Basics
@@ -25,11 +26,11 @@ const highAndLow =(str) => {
 }
 ```
 
-## job
+## Work experience:
 *nothing relevant yet*
 ## Education and courses:
-    1. HTML, CSS, and Javascript for Web Developers created by Johns Hopkins University.([Coursera](https://www.coursera.org/))
-    2. Profession Frontend Developer ([Hexlet](https://ru.hexlet.io) in progress)
+    - HTML, CSS, and Javascript for Web Developers created by Johns Hopkins University.([Coursera](https://www.coursera.org/))
+    - Profession: Frontend Developer ([Hexlet](https://ru.hexlet.io) in progress)
 
 ## Languages:
 - Russian - native
