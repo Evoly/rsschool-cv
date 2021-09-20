@@ -29,8 +29,8 @@ const highAndLow =(str) => {
 ## Work experience:
 *nothing relevant yet*
 ## Education and courses:
-    - HTML, CSS, and Javascript for Web Developers created by Johns Hopkins University.([Coursera](https://www.coursera.org/))
-    - Profession: Frontend Developer ([Hexlet](https://ru.hexlet.io) in progress)
+- HTML, CSS, and Javascript for Web Developers created by Johns Hopkins University.([Coursera](https://www.coursera.org/))
+- Profession: Frontend Developer ([Hexlet](https://ru.hexlet.io) in progress)
 
 ## Languages:
 - Russian - native
