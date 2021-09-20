@@ -2,4 +2,4 @@
 
 
 ## Link on CV:
-https://github-username.github.io/rsschool-cv/cv
+https://evoly.github.io/rsschool-cv/cv
