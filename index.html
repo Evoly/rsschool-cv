@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>CV</title>
+    <link rel="icon" type="images/png" sizes="16x16" href="images/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css" type="text/css">
+    <link rel="stylesheet" href="css/normalize.css" type="text/css">
+</head>
+
+<body>
+    <div class="wrapper container">
+        <header class="header"></header>
+        <main class="container main">
+            <div class="content">
+                <section class="section ">
+                    <h1 class="header-1 ">Svetlana Semenko</h1>
+                    <p class="sub-header ">Junior Frontend Developer</p>
+                </section>
+                <section class="section ">
+                    <h2 class="header-2 ">
+                        About me
+                    </h2>
+                    <div class="section__content ">
+
+                    </div>
+                </section>
+                <section class="section ">
+                    <h2 class="header-2 ">
+                        Skills
+                    </h2>
+                    <div class="section__content ">
+                        <ul class="section__list ">
+                            <li>HTML5, CSS3</li>
+                            <li>CSS (Bootstrap, SCSS, BEM)</li>
+                            <li>JavaScript Basics</li>
+                            <li>Git</li>
+                        </ul>
+                    </div>
+                </section>
+                <section class="section ">
+                    <h2 class="header-2 ">
+                        Code example
+                    </h2>
+                    <div class="section__content ">
+                        <p>
+                            <a href="https://www.codewars.com/kata/52f787eb172a8b4ae1000a34" target="_blank" rel="noopener">Highest and Lowest:</a> In this little assignment you are given a string of space separated numbers, and have to return the highest
+                            and lowest number.</p>
+                        <pre class="codeblock">
+                        <code>
+const highAndLow =(str) => {
+    const numbers = str.split(' ').map(Number);
+    const max = Math.max(...numbers);
+    const min = Math.min(...numbers);
+    return `${max} ${min}`;
+};
+                        </code>
+                        </pre>
+                    </div>
+                </section>
+
+                <section class="section ">
+                    <h2 class="header-2 ">
+                        Education and courses
+                    </h2>
+                    <div class="section__content ">
+                        <ul class="section__list ">
+                            <li>Course: HTML, CSS, and Javascript for Web Developers created by Johns Hopkins University. <a href="https://www.coursera.org/" target="_blank" rel="noopener">Coursera</a></li>
+                            <li>Course: JavaScript Development
+                                <a href="https://rs.school/js/" target="_blank" rel="noopener">Rolling Scopes School</a>
+                            </li>
+                        </ul>
+
+                    </div>
+                </section>
+                <section class="section ">
+                    <h2 class="header-2 ">
+                        Languages
+                    </h2>
+                    <div class="section__content ">
+                        <ul class="section__list ">
+                            <li>Russian - native</li>
+                            <li>English - A2</li>
+                        </ul>
+                    </div>
+                </section>
+            </div>
+
+            <aside class="aside">
+                <div class="avatar ">
+                    <img src="images/avatar.png" class="avatar" alt="avatar">
+                </div>
+                <section class="contacts ">
+                    <h2 class="header-2 ">
+                        Contact me
+                    </h2>
+                    <div class="contacts__item ">
+                        <img src="images/telegram.svg" class="contacts__icon telegram" alt="telegram icon" />
+                        <a href="https://t.me/svetoch_777 " class="contact__link ">svetoch_777</a>
+                    </div>
+                    <div class="contacts__item ">
+                        <img src="images/email.svg" class="contacts__icon email" alt="email icon" />
+                        <a href="mailto:svetoch.sv@gmail.com " class="contact__link ">svetoch.sv@gmail.com</a>
+                    </div>
+                </section>
+            </aside>
+        </main>
+        <footer class="footer">
+            <div class="footer__item">
+                <img src="images/github.svg " alt="github logo ">
+                <a href="https://github.com/Evoly " class="link" target="_blank" rel="noopener">Github</a>
+            </div>
+            <div class="footer__item ">
+                <span>2021</span>
+            </div>
+            <div class="footer__item ">
+                <a href="https://rs.school/js/" class="link ">
+                    <img src="/images/rs_school_js.svg " alt="rsschool logo ">
+                </a>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>
